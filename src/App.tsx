@@ -22,7 +22,7 @@ function App() {
       </div>
 
       <h1>Vite + React + Tailwind CSS</h1>
-      <p className='text-4xl mt-4'>Template Setup by Boss</p>
+      <p className='text-4xl mt-20'>Template Setup by Boss</p>
       
       <div className="card mt-4">
         <button onClick={() => setCount((count) => count + 1)}>
