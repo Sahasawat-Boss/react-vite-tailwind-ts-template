@@ -1,5 +1,7 @@
 # ⚡ React + Vite + Tailwind CSS + TypeScript Template 🚀
 
+![Template Image](image.png)
+
 This is a **starter template** for creating modern React applications using:
 - ⚡ [Vite](https://vitejs.dev/) (Fast build tool)
 - 🎨 [Tailwind CSS](https://tailwindcss.com/) (Utility-first CSS framework)
