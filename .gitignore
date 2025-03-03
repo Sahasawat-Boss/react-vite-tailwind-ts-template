@@ -1,4 +1,4 @@
-# Logs
+git commit -m "Initial commit - React + Vite + Tailwind + TypeScript template"# Logs
 logs
 *.log
 npm-debug.log*
