@@ -1,4 +1,4 @@
-# ⚡ React + Vite + Tailwind CSS + TypeScript Template 🚀
+# React + Vite + Tailwind CSS + TypeScript Template ⚡ 
 
 ![Template Image](image.png)
 
@@ -11,7 +11,7 @@ This is a **starter template** for creating modern React applications using:
 ✅ Pre-configured **Vite + React + TypeScript**  
 ✅ Integrated **Tailwind CSS**  
 ✅ Ready-to-use **file structure**  
-✅ Fast ⚡ and lightweight 🚀  
+✅ Fast and lightweight 
 
 ---
 
@@ -119,9 +119,9 @@ Feel free to **fork this repository** and improve it! If you make useful changes
 
 ---
 
-## 🐜 License
+## License
 This project is licensed under the **MIT License**.
 
 ---
 
-🔥 **Created by [@Sahasawat-Boss](https://github.com/Sahasawat-Boss) 🚀**
+🔥 **Created by [@Sahasawat-Boss](https://github.com/Sahasawat-Boss)**
