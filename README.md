@@ -13,20 +13,30 @@ This is a **starter template** for creating modern React applications using:
 
 ---
 
-## 📦 Installation
+## 🛆 Installation
 
-### 1️⃣ Clone this repository as your project starter:
+### 1⃣ Clone this repository as your project starter:
 ```sh
 git clone https://github.com/Sahasawat-Boss/react-vite-tailwind-ts-template.git my-project
 cd my-project
 ```
 
-### 2️⃣ Install dependencies:
+### 2⃣ Remove the Old Git History
+If you want to start fresh without the commit history of this template:
+```sh
+rm -rf .git
+git init
+git add .
+git commit -m "Initial commit"
+```
+Now, you have a clean repository.
+
+### 3⃣ Install dependencies:
 ```sh
 npm install
 ```
 
-### 3️⃣ Start the development server:
+### 4⃣ Start the development server:
 ```sh
 npm run dev
 ```
@@ -58,18 +68,18 @@ Use Tailwind classes directly in your components:
 ## 🛠 Folder Structure
 ```
 📂 my-project
- ┣ 📂 src
- ┃ ┣ 📂 assets
- ┃ ┣ 📂 components
- ┃ ┣ 📂 pages
- ┃ ┣ 📜 App.tsx
- ┃ ┣ 📜 main.tsx
- ┃ ┣ 📜 index.css
- ┣ 📜 .gitignore
- ┣ 📜 package.json
- ┣ 📜 tailwind.config.ts
- ┣ 📜 tsconfig.json
- ┗ 📜 vite.config.ts
+ ┓ 📂 src
+ ┃ ┓ 📂 assets
+ ┃ ┓ 📂 components
+ ┃ ┓ 📂 pages
+ ┃ ┓ 🐜 App.tsx
+ ┃ ┓ 🐜 main.tsx
+ ┃ ┓ 🐜 index.css
+ ┓ 🐜 .gitignore
+ ┓ 🐜 package.json
+ ┓ 🐜 tailwind.config.ts
+ ┓ 🐜 tsconfig.json
+ ┓ 🐜 vite.config.ts
 ```
 
 ---
@@ -107,7 +117,7 @@ Feel free to **fork this repository** and improve it! If you make useful changes
 
 ---
 
-## 📜 License
+## 🐜 License
 This project is licensed under the **MIT License**.
 
 ---
