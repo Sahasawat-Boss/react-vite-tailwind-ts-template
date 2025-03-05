@@ -26,7 +26,7 @@ cd my-project
 ### 2⃣ Remove the Old Git History
 If you want to start fresh without the commit history of this template:
 ```sh
-rm -rf .git
+Remove-Item -Recurse -Force .git
 git init
 git add .
 git commit -m "Initial commit"
